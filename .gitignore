@@ -1,0 +1,17 @@
+# R metadata
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Large Data Files (Keep scripts/logic only)
+*.csv
+!1_articles_pmid.csv
+
+# Images/Figures
+*.jpg
+*.png
+*.pdf
+
+# Temp files
+.RDataTmp
