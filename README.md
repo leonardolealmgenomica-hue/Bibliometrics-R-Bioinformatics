@@ -1,4 +1,4 @@
-# PubMed Text Mining and Bibliometrics in R 🧬📊
+# PubMed Text Mining and Bibliometrics in R
 
 A specialized R-based pipeline for automated scientific literature recovery, metadata extraction, and frequentist text analysis, with a focus on metabolic diseases (MASLD) in Latin America.
 
